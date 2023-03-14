@@ -3,11 +3,10 @@
     padding: 0;
 }
 
-body{
-    background-image: url('./pictures/babygroot.svg ');
-    background-repeat: no-repeat;
-    background-position:left;
-    background-size:100vh;
-    padding-top: 40rem;
-    background-color: brown ;
+.container-main{
+    display: flex;
+}
+
+img{
+    height: 99vh;
 }
